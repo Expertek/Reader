@@ -24,7 +24,7 @@
 //
 
 #import "ReaderDemoController.h"
-#import "ReaderViewController.h"
+#import <VfrReader/VfrReader.h>
 
 @interface ReaderDemoController () <ReaderViewControllerDelegate>
 
